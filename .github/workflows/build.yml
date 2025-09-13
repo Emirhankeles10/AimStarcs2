@@ -1,4 +1,4 @@
-name: build x64 release ci
+name: build x64 release c
 
 on: 
   push:
